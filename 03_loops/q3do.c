@@ -11,6 +11,6 @@ int main(){
         c++;
         /* code */
     } while (c<=num);
-    printf("")
+    printf("The Factorial of %d is %d",num,fact);
     
 }
